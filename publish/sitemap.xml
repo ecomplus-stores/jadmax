@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://jadmax.netlify.app/coxim-inferior-do-motor-pt-cruiser-2001-2010</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://jadmax.netlify.app/motor</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -15,6 +21,12 @@
   
     <url>
       <loc>https://jadmax.netlify.app/grand-cherokee-1993-1998</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://jadmax.netlify.app/gomax</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
