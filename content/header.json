@@ -18,9 +18,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/motor?Motor"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": true
   },
