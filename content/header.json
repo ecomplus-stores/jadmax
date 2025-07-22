@@ -19,9 +19,7 @@
   },
   "categories_list": {
     "featured": [
-      "/motor?Motor",
-      "/motor?Motor",
-      "/gomax?Gomax"
+      "/motor?Motor"
     ],
     "random": 6,
     "full_width": true
