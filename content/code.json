@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "/*Menu cor de fundo e texto diferentes */\n/* background é a cor de fundo e color é a cor da fonte, no caso usado cor de fundo preta e fonte branca */\n.header, #categories-nav, .header__submenu, .minicart__aside .card-header {\n  background: #000 !important;\n  border-bottom: 1px solid #000 !important;\n  color: #fff !important;\n}\n\n.header a, .header i {\n  color: #fff !important;\n}\n\n.header__search-btn i, .cart-item *, .cart-item__name a, a.minicart__btn-cart {\n  color: #000 !important;\n}\n\n#categories-nav a, #categories-nav i, #accordion-menu i, .minicart__aside .close {\n  color: #fff !important;\n}",
   "html_head": "",
   "html_body": ""
 }
