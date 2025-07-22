@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/jadmax",
   "logo": "/img/uploads/20190611111545_logo.png",
-  "name": "jadmax",
-  "short_name": "jadmax",
+  "name": "Fusion Auto Parts Me",
+  "short_name": "Fusion Auto Parts",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -19,6 +19,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 4915,
-  "description": "jadmax",
+  "description": "Fusion Auto Parts Me",
   "large_icon": "/img/large-icon.png"
 }
